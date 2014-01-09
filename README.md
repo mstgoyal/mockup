@@ -1,3 +1,3 @@
-#User Stories for My Amazon Clone
+#User Stories for My CoffeeMeetsBagel Clone
 
 1.
