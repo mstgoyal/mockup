@@ -1,4 +1,3 @@
-mockup
-======
+#User Stories for My Amazon Clone
 
-User Stories and HTML Mockup Pages
+1.
