@@ -1,6 +1,7 @@
 #User Stories for My CoffeeMeetsBagel Clone
 
-1. As a user, I must be able to create a profile with static data that can be searched
+1. As a user, I must be able to create a profile with static data
+2. As an admin, I must be able to search static data
 2. As a user, I must be matched to individuals whose profiles meet my requirement
 3. As a user, I should first be connected with my friend's facebook network before any random matches
 4. As a user, whenever I receive a profile, the person's whose profile I receive, must receive my profile
